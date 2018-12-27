@@ -7,7 +7,7 @@
     "gitbook": "*"
   },
   "gitbook": {
-     "properties": {}
+    "properties": {}
   },
   "repository": {
     "type": "git",
