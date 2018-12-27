@@ -1,0 +1,32 @@
+{
+  "name": "gitbook-plugin-text-highlight",
+  "version": "0.1.0",
+  "description": "gitbook markdown inline text highlight support(==highlighted text==)",
+  "main": "index.js",
+  "engines": {
+    "gitbook": "*"
+  },
+  "gitbook": {
+     "properties": {}
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickytan/gitbook-plugin-text-highlight.git"
+  },
+  "keywords": [
+    "gitbook",
+    "markdown",
+    "highlight",
+    "text",
+    "inline"
+  ],
+  "author": {
+    "name": "Ricky Tan",
+    "email": "ricky.tan.xin@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rickytan/gitbook-plugin-text-highlight/issues"
+  },
+  "homepage": "https://github.com/rickytan/gitbook-plugin-text-highlight#readme"
+}
