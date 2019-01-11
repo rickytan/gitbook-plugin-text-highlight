@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-text-highlight",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "gitbook markdown inline text highlight support(==highlighted text==)",
   "main": "index.js",
   "engines": {
