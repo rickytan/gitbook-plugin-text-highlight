@@ -19,7 +19,7 @@ module.exports = {
         "page:before": function (page) {
             var content = page.content;
 
-            var codeReg = /(((^\s*)```)[^`]*$)[^\0]*?\n\2(?=\s*$)/gm;
+            var codeReg = /(((^\s*)```)[^`]*$)[^\0]*?\2(?=\s*$)/gm;
             var codeRanges = [];
             var match = codeReg.exec(content);
             while (match !== null) {
